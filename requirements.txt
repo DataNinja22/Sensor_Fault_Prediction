@@ -1,1 +1,5 @@
 pymongo==4.2.0
+
+
+
+-e .  #editable mode ,setup.py file ko trigger kra dega
